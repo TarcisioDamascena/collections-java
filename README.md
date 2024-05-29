@@ -1,2 +1,2 @@
 # DIO - Trilha Java Básico
-### Repositório para estudos das aulas de Collections 
+### Repositório para exemplo e estudos das aulas do curso de Collections.
